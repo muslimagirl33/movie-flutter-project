@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-
+## movie app
 
 ## [Watch it on YouTube](https://youtu.be/OgSLd2lH1FM)
 
@@ -10,7 +10,7 @@
 
 We design two pages one is the home page and another one is movie info page that will help you to design clear interfaces for movie app faster and easier.
 
-### Movie Info App Final UI
+### Movie app App
 
 ![Preview](movie_gif.gif)
 ![App UI](/ui.png)
