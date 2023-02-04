@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Movie Info App - Flutter UI
+
 
 ## [Watch it on YouTube](https://youtu.be/OgSLd2lH1FM)
 
