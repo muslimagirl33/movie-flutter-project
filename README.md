@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Info App - Flutter UI
 
 ## [Watch it on YouTube](https://youtu.be/OgSLd2lH1FM)
@@ -13,3 +14,7 @@ We design two pages one is the home page and another one is movie info page that
 
 ![Preview](movie_gif.gif)
 ![App UI](/ui.png)
+=======
+# movie-flutter-project
+ayan ali mohamud c119723 ca191
+>>>>>>> de66f26592c04716f8275e9a96733092f6818b14
